@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Publications"
 author_profile: true
@@ -59,13 +60,14 @@ redirect_from:
 
 2018. [Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.][] _World Politics_ 70(2), pp. 239-274.
 
+[Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.]: https://www.cambridge.org/core/journals/world-politics/article/precolonial-legacies-and-institutional-congruence-in-public-goods-delivery/5BA3EFBDEB0981B965801B9C1DA31D64
+
 [​Replication data][]   
 
 [Replication Data]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY
 
 ​Coding of Senegal's precolonial kingdoms
 
-[Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.]: https://www.cambridge.org/core/journals/world-politics/article/precolonial-legacies-and-institutional-congruence-in-public-goods-delivery/5BA3EFBDEB0981B965801B9C1DA31D64
 
 2018. [The Politics of Local Government Performance: Elite Cohesion and Cross-Village Constraints in Decentralized Senegal][] _World Development_, 103, pp. 149-61.
 
