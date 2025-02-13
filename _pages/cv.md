@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<embed src="/files/Wilfahrt_CV_Curent.pdf" type="application/pdf" />
+<embed src="https://martha-wilfahrt.github.io/files/Wilfahrt_CV_Curent.pdf" type="application/pdf" />
 
-You can download a PDF copy of my CV [here](/files/Wilfahrt_CV_Curent.pdf)
+You can download a PDF copy of my CV [here](https://martha-wilfahrt.github.io/files/Wilfahrt_CV_Curent.pdf)
