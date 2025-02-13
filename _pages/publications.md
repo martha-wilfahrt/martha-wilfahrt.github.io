@@ -8,7 +8,7 @@ author_profile: true
 Book 
 -------
 
-2021. [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa][]. New York, NY: Cambridge University Press (Cambridge Studies in Comparative Politics)
+(2021). [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa][]. New York, NY: Cambridge University Press (Cambridge Studies in Comparative Politics)
 
 [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa]: https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0
 
