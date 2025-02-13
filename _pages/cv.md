@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<iframe src="/files/Wilfahrt_CV_Curent.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<embed src="/files/Wilfahrt_CV_Curent.pdf" type="application/pdf" />
 
 You can download a PDF copy of my CV [here](/files/Wilfahrt_CV_Curent.pdf)
