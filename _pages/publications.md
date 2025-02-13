@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Book #
+## Book ##
 
 2021. [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa][]. New York, NY: Cambridge University Press (Cambridge Studies in Comparative Politics)
 
@@ -15,16 +15,16 @@ author_profile: true
    * QMMR Sartori Best Book Award, Honorable Mention, 2022
    * Long-Listed for the Luebbert Best Book Award, 2022
     
-# Journal Articles #
+## Journal Articles ##
 
 2023. [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands][] (with Natalie Letsa) _Journal of Modern African Studies_, 61(3), pp. 439-62.
 
 [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands]: https://doi.org/10.1017/S0022278X23000150
 
 2023. [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa][] (with Justine Davis) _Comparative Political Studies_ 57(4), pp. 675-709. 
-
     * Winner of the African Politics Conference Group Best Paper Award 2024
 
+  
 [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa]: https://journals.sagepub.com/doi/10.1177/00104140231178735
 
 2023. [Demanding Recognition: Citizen Perspectives on Clientelism in Africa][] (with Kathleen Klaus & Jeffrey Paller) _African Affairs_ 122(487), pp. 185-203.
@@ -33,7 +33,7 @@ author_profile: true
 
 2022. [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?][] _Electoral Studies_ 79.
 
-[Replication Data][]
+[Replication Data][] 
 
 [Replication Data]: https://marthawilfahrt.weebly.com/uploads/2/9/9/3/29939255/wilfahrt_electoral_studies_2022_replication_data.zip
 
@@ -74,7 +74,7 @@ author_profile: true
 
 [Popular Support for Democracy in Autocratic Regimes: A Micro-Level Analysis of Preferences]: http://www.ingentaconnect.com/contentone/cuny/cp/2018/00000050/00000002/art00006
 
-# Working Papers #
+## Working Papers ##
 A Precolonial Paradox: Rethinking Political Centralization and Its Legacies (_revise & resubmit_)
 
 Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts (with Justine Davis) (_revise & resubmit_)
@@ -85,7 +85,7 @@ The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Ko
 
 Guns, Garrisons, and Growth: Revisiting State Formation in Africa (with Leonardo Arriola, Igor Kolesnikov & Yosef Tadesse)
 
-# In Progress #
+## In Progress ##
 Reevaluating Legacies of Direct and Indirect Rule: Evidence from the Ghana-Togo Borderlands (with Natalie Letsa)
 
 Indigenous Slavery and Long-Run Inequality in Africa
