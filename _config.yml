@@ -22,7 +22,7 @@ repository               : "martha-wilfahrt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MW_2.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor"
   employer         : "University of California, Berkeley"
   uri              : # URL
