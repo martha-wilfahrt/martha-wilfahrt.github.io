@@ -12,9 +12,11 @@ Book
 
 [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa]: https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0
 
-   * Allan Sharlin Memorial Book Award, Social Science History Association (2022)
-   * QMMR Sartori Best Book Award, Honorable Mention, 2022
-   * Long-Listed for the Luebbert Best Book Award, 2022
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Allan Sharlin Memorial Book Award, Social Science History Association, 2022_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _QMMR Sartori Best Book Award, Honorable Mention, 2022_
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Long-Listed for the Luebbert Best Book Award, 2022_
     
 Journal Articles 
 -------
@@ -24,6 +26,7 @@ Journal Articles
 [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands]: https://doi.org/10.1017/S0022278X23000150
 
 (2023) [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa][] (with Justine Davis) _Comparative Political Studies_ 57(4), pp. 675-709. 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Winner of the African Politics Conference Group Best Paper Award 2024_
 
 [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa]: https://journals.sagepub.com/doi/10.1177/00104140231178735
@@ -34,7 +37,7 @@ Journal Articles
 
 (2022) [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?][] _Electoral Studies_ 79.
 
-[Replication Data][] 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][] 
 
 [Replication Data]: https://marthawilfahrt.weebly.com/uploads/2/9/9/3/29939255/wilfahrt_electoral_studies_2022_replication_data.zip
 
@@ -42,7 +45,7 @@ Journal Articles
 
 (2022) [Improving Open-Source Information on African Politics][] (with Kristin Michelitch). _PS: Politics and Society_ 55(2), pp. 450-455.
 
-[Replication Data][]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][]
 
 [Replication Data]: [https://marthawilfahrt.weebly.com/uploads/2/9/9/3/29939255/wilfahrt_electoral_studies_2022_replication_data.zip](https://doi.org/10.7910/DVN/IJUVUG)
 
@@ -50,7 +53,7 @@ Journal Articles
 
 (2020) [The Mechanisms of Direct and Indirect Rule: Colonialism and Economic Development in Africa][] (with Natalie Letsa). _Quarterly Journal of Political Science_ 15(4), pp. 539-577.
 
-[Replication Data][]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][]
 
 [Replication Data]: https://www.nowpublishers.com/article/details/supplementary-info/100.00019086_supp.zip
 
@@ -60,12 +63,11 @@ Journal Articles
 
 [Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.]: https://www.cambridge.org/core/journals/world-politics/article/precolonial-legacies-and-institutional-congruence-in-public-goods-delivery/5BA3EFBDEB0981B965801B9C1DA31D64
 
-[​Replication data][]   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication data][]   
 
 [Replication Data]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY
 
-​Coding of Senegal's precolonial kingdoms
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​Coding of Senegal's precolonial kingdoms
 
 (2018) [The Politics of Local Government Performance: Elite Cohesion and Cross-Village Constraints in Decentralized Senegal][]. _World Development_, 103, pp. 149-61.
 
