@@ -64,9 +64,7 @@ Journal Articles
 
 [Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.]: https://www.cambridge.org/core/journals/world-politics/article/precolonial-legacies-and-institutional-congruence-in-public-goods-delivery/5BA3EFBDEB0981B965801B9C1DA31D64
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication Data][]   
-
-[Replication Data]: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​Coding of Senegal's precolonial kingdoms
 
