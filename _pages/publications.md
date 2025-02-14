@@ -86,7 +86,7 @@ Understanding the Sensitivity of Party Identification Questions in Polarized Afr
 
 Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_under review_)
 
-The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Koter) Pre-analysis plan (_under review_)
+Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_under review_)
 
 Guns, Garrisons, and Growth: Revisiting State Formation in Africa (with Leonardo Arriola, Igor Kolesnikov & Yosef Tadesse)
 
