@@ -24,7 +24,8 @@ author:
   # Biographic information
   avatar           : "MW_2.png"
   bio              : "Assistant Professor"
-  employer         : "University of California, Berkeley"
+  field            : "Political Science"
+  employer         : "UC Berkeley"
   uri              : # URL
   email            : "martha.wilfahrt@berkeley.edu" 
 
