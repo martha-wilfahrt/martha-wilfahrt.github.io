@@ -26,8 +26,9 @@ author:
   bio              : "Assistant Professor"
   field            : "Political Science"
   employer         : "UC Berkeley"
-  uri              : # URL
   email            : "martha.wilfahrt@berkeley.edu" 
+  url: "/files/Wilfahrt_CV_Current.pdf"
+        title: CV 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
