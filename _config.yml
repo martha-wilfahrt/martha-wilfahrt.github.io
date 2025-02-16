@@ -29,12 +29,14 @@ author:
   bio              : "Assistant Professor, Political Science"
   employer         : "UC Berkeley"
   email            : "martha.wilfahrt@berkeley.edu" 
-  googlescholar    : "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
   links:
  #   - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
  #     url: "martha.wilfahrt@berkeley.edu"
-    - label: "CV"
+    - label: " Google Scholar"
+      icon: "fas fa-brands fa-google-scholar" 
+      url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
+   - label: " CV"
       icon: "far fa-fw fa-file-pdf"
       url: "/files/Wilfahrt_CV_Current.pdf" 
 
