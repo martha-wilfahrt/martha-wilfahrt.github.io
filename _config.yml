@@ -29,14 +29,13 @@ author:
   links:
  #   - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
- #     url: "jonesae@mit.edu"
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/files/Wilfahrt_CV_Current.pdf"
+ #     url: "martha.wilfahrt@berkeley.edu"
     - label: "Google Scholar"
       icon: "fas fa-brands fa-google-scholar" 
       url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
- 
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/files/Wilfahrt_CV_Current.pdf" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
