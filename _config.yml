@@ -33,10 +33,10 @@ author:
  #     url: "jonesae@mit.edu"
     - label: "  Google Scholar"
       icon: "fas fa-brands fa-google-scholar" 
-      url: "/files/Wilfahrt_CV_Current.pdf"
-    - label: "  CV"
-      icon: "far fa-fw fa-file-pdf"
       url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
+   - label: "  CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/files/Wilfahrt_CV_Current.pdf"
 
 
 # Site Settings
