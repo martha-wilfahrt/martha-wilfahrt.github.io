@@ -26,18 +26,17 @@ author:
   avatar           : "MW_2.png"
   bio              : "Assistant Professor"
   employer         : "UC Berkeley"
-  email            : "martha.wilfahrt@berkeley.edu" 
+  email            : martha.wilfahrt@berkeley.edu
   links:
  #   - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
- #     url: "martha.wilfahrt@berkeley.edu"
-    - label: "  Google Scholar"
-      icon: "fas fa-brands fa-google-scholar" 
-      url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
-   - label: "  CV"
+ #     url: "jonesae@mit.edu"
+    - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/files/Wilfahrt_CV_Current.pdf" 
-
+      url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
+    - label: "Google Scholar"
+      icon: "fas fa-brands fa-google-scholar" 
+      url: "/files/Wilfahrt_CV_Current.pdf"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
