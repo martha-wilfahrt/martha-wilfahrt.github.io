@@ -33,10 +33,10 @@ author:
  #   - label: "Email"
  #     icon: "fas fa-fw fa-envelope-square"
  #     url: "martha.wilfahrt@berkeley.edu"
-    - label: " Google Scholar"
+    - label: "  Google Scholar"
       icon: "fas fa-brands fa-google-scholar" 
       url: "https://scholar.google.com/citations?user=ipRRjx4AAAAJ&hl=en"
-   - label: " CV"
+   - label: "  CV"
       icon: "far fa-fw fa-file-pdf"
       url: "/files/Wilfahrt_CV_Current.pdf" 
 
