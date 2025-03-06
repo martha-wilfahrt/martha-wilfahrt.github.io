@@ -13,8 +13,8 @@ author_profile: true
    *  African Politics
    *  The Politics of International Aid
    *  Political Economy of the Global South
+   *  African Politics through Literature and Film
 
 ## Courses Taught at Previous Institutions ## 
-   *  African Politics through Literature and Film (Northwestern)
    *  The Politics of Social Welfare (Northwestern)
    *  Comparative Inequality and Development (Cornell Prison Education Program)
