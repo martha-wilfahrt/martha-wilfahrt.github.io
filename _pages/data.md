@@ -11,5 +11,5 @@ Atlas of 19th Century African Polities
 -------
 Data will be posted shortly.
 
-[Codebook]("https://martha-wilfahrt.github.io/files/1_Atlas_Codebook.pdf")
+[Codebook](<a href="https://martha-wilfahrt.github.io/files/1_Atlas_Codebook.pdf">Codebook</a>)
 
