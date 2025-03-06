@@ -13,3 +13,5 @@ Data will be posted shortly.
 
 [Codebook](<a href="https://martha-wilfahrt.github.io/files/1_Atlas_Codebook.pdf">Codebook</a>)
 
+<Link src="https://martha-wilfahrt.github.io/files/1_Atlas_Codebook.pdf" target="_blank">Codebook</Link> 
+
