@@ -88,13 +88,15 @@ Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the
 
 Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_under review_)
 
+The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Koter)
+
 Guns, Garrisons, and Growth: Revisiting State Formation in Africa (with Leonardo Arriola, Igor Kolesnikov & Yosef Tadesse)
 
 
 In Progress 
 -------
 
-Reevaluating Legacies of Direct and Indirect Rule: Evidence from the Ghana-Togo Borderlands (with Natalie Letsa)
+The Origins of Opposition Strongholds (with Natalie Letsa)
 
 Indigenous Slavery and Long-Run Inequality in Africa
 
