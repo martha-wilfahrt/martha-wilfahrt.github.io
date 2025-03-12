@@ -12,7 +12,7 @@ Book
 
 [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa]: https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reviewed in [African Studies Review]:(https://muse-jhu-edu.libproxy.berkeley.edu/article/949519), [Governance]:(https://doi.org/10.1111/gove.12731), [The Journal of Development Studies]:(https://doi.org/10.1080/00220388.2023.2229140), [Perspectives on Politics]:(https://doi.org/10.1017/S1537592722001475), [Publius: The Journal of Federalism]:(https://doi.org/10.1093/publius/pjad042)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reviewed in [African Studies Review](https://muse-jhu-edu.libproxy.berkeley.edu/article/949519), [Governance](https://doi.org/10.1111/gove.12731), [The Journal of Development Studies](https://doi.org/10.1080/00220388.2023.2229140), [Perspectives on Politics](https://doi.org/10.1017/S1537592722001475), [Publius: The Journal of Federalism](https://doi.org/10.1093/publius/pjad042)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Allan Sharlin Memorial Book Award, Social Science History Association, 2022_
 
