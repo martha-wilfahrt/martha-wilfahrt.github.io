@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: 
+layout: archive
+title: "Data"
+permalink: /data/
 author_profile: true
-redirect_from: 
-  - /data/
-  - /data.html
 ---
 
 Atlas of 19th Century African Polities 
