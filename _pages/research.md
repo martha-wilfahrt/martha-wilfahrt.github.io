@@ -38,9 +38,7 @@ Journal Articles
 
 (2022). [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?][] _Electoral Studies_ 79.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][] 
-
-[Replication Data]: https://marthawilfahrt.weebly.com/uploads/2/9/9/3/29939255/wilfahrt_electoral_studies_2022_replication_data.zip
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data](https://martha-wilfahrt.github.io/files/wilfahrt_electoral_studies_2022_replication_data.zip) 
 
 [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?]: https://authors.elsevier.com/a/1fXDnxRaZcPN3
 
@@ -48,7 +46,7 @@ Journal Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][]
 
-[Replication Data]: [https://marthawilfahrt.weebly.com/uploads/2/9/9/3/29939255/wilfahrt_electoral_studies_2022_replication_data.zip](https://doi.org/10.7910/DVN/IJUVUG)
+[Replication Data]: [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJUVUG]
 
 [Improving Open-Source Information on African Politics]: https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/improving-opensource-information-on-african-politics-one-student-at-a-time/14D088517832EA5DFE2D33E4A36AE4B9
 
@@ -66,7 +64,7 @@ Journal Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​Coding of Senegal's precolonial kingdoms
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​Coding of Senegal's precolonial kingdoms(https://martha-wilfahrt.github.io/files/Senegals_Precolonial_Kingdom.pdf)
 
 (2018). [The Politics of Local Government Performance: Elite Cohesion and Cross-Village Constraints in Decentralized Senegal][]. _World Development_, 103, pp. 149-61.
 
