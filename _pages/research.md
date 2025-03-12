@@ -66,7 +66,7 @@ Journal Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​Coding of Senegal's precolonial kingdoms(https://martha-wilfahrt.github.io/files/Senegals_Precolonial_Kingdom.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​[Coding of Senegal's Precolonial Kingdoms](https://martha-wilfahrt.github.io/files/Senegals_Precolonial_Kingdom.pdf)
 
 (2018). [The Politics of Local Government Performance: Elite Cohesion and Cross-Village Constraints in Decentralized Senegal][]. _World Development_, 103, pp. 149-61.
 
