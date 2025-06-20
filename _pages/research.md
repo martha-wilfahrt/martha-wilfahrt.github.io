@@ -26,7 +26,7 @@ Journal Articles
 
 (2025). [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts][] (with Justine Davis) _Political Behavior_
 
-[https://rdcu.be/erWgb]
+[Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts]: https://rdcu.be/erWgb
 
 (2023). [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands][] (with Natalie Letsa) _Journal of Modern African Studies_, 61(3), pp. 439-62.
 
