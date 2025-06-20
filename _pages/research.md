@@ -24,6 +24,10 @@ Book
 Journal Articles 
 -------
 
+(2025). [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts][] (with Justine Davis) _Political Behavior_
+
+[https://rdcu.be/erWgb]
+
 (2023). [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands][] (with Natalie Letsa) _Journal of Modern African Studies_, 61(3), pp. 439-62.
 
 [Judge, Landlord, Broker, Watchman: Assessing Variation in Chiefly Duties in the Ghana-Togo Borderlands]: https://doi.org/10.1017/S0022278X23000150
@@ -82,11 +86,9 @@ Working Papers
 
 A Precolonial Paradox: Rethinking Political Centralization and Its Legacies (_revise & resubmit_)
 
-Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts (with Justine Davis) (_revise & resubmit_)
+Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_revise & resubmit_)
 
 Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_under review_)
-
-Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_under review_)
 
 The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Koter)
 
