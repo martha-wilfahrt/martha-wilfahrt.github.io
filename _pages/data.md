@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Data"
-permalink: /data/
+title: "Atlas of 19th c. African States"
+permalink: /atlas/
 author_profile: true
 ---
 
