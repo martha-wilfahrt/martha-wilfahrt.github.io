@@ -24,6 +24,8 @@ Book
 Journal Articles 
 -------
 
+Forthcoming. A Precolonial Paradox: Rethinking Political Centralization and Its Legacies _American Political Science Review._
+
 (2025). [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts][] (with Justine Davis) _Political Behavior_
 
 [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts]: https://rdcu.be/erWgb
@@ -84,11 +86,9 @@ Journal Articles
 Working Papers 
 -------
 
-A Precolonial Paradox: Rethinking Political Centralization and Its Legacies (_revise & resubmit_)
-
 Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_revise & resubmit_)
 
-Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_under review_)
+Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_revise & resubmit_)
 
 The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Koter)
 
