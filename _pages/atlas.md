@@ -12,3 +12,7 @@ in sub-Saharan Africa in the 19th century. The dataset is introduced in the pape
 
 [Data](https://www.dropbox.com/scl/fi/2tx4c7mev9ot0cwaaq9g6/Atlas-of-African-Centralized-States.zip?rlkey=7myvu29k97cahrzx8oplhg8t5&dl=0)
 
+Please cite the data as follows:
+
+Wilfahrt, Martha. Forthcoming. A Precolonial Paradox: Rethinking Political Centralization and Its Legacies. _American Political Science Review._
+
