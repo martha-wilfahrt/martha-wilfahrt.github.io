@@ -24,7 +24,7 @@ Book
 Journal Articles 
 -------
 
-Forthcoming. [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies] _American Political Science Review._
+2025. [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies] _American Political Science Review._ (FirstView)
 
 [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies]: https://doi.org/10.1017/S0003055425101044 
 
