@@ -24,6 +24,8 @@ Book
 Journal Articles 
 -------
 
+Forthcoming. Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_Perspectives on Politics_).
+
 2025. [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies] _American Political Science Review._ (FirstView)
 
 [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies]: https://doi.org/10.1017/S0003055425101044 
@@ -87,8 +89,6 @@ Journal Articles
 
 Working Papers 
 -------
-
-Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa (with Leonardo Arriola and Dominika Koter) (_revise & resubmit_)
 
 Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_revise & resubmit_)
 
