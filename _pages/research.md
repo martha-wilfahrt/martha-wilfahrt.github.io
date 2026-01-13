@@ -24,6 +24,8 @@ Book
 Journal Articles 
 -------
 
+(Forthcoming). Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_Comparative Political Studies_)
+
 (FirstView). [Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa][] (with Leonardo Arriola and Dominika Koter) _Perspectives on Politics_.
 
 [Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa]: https://doi.org/10.1017/S153759272510371X
@@ -91,8 +93,6 @@ Journal Articles
 
 Working Papers 
 -------
-
-Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_revise & resubmit_)
 
 The Political Effects of Caste in Senegal (with Leonardo Arriola and Dominika Koter)
 
