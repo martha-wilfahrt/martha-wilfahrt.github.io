@@ -24,7 +24,9 @@ Book
 Journal Articles 
 -------
 
-(Forthcoming). Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border (with Natalie Letsa) (_Comparative Political Studies_)
+(FirstView). [Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border] (with Natalie Letsa) (_Comparative Political Studies_)
+
+[Colonial Legacies, Collective Efficacy, and Rural Development: Evidence from the Togo-Ghana Border]: https://doi.org/10.1177/00104140261418613
 
 (FirstView). [Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa][] (with Leonardo Arriola and Dominika Koter) _Perspectives on Politics_.
 
