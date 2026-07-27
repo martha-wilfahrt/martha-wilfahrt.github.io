@@ -32,11 +32,11 @@ Journal Articles
 
 [Unspoken Hierarchies: The Enduring Effects of Caste Discrimination in Africa]: https://doi.org/10.1017/S153759272510371X
 
-(2026). [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies][] _American Political Science Review_ 120((2), pp. 419-438. 
+(2026). [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies][] _American Political Science Review_ 120(2), pp. 419-438. 
 
 [A Precolonial Paradox: Rethinking Political Centralization and Its Legacies]: https://doi.org/10.1017/S0003055425101044 
 
-(2025). [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts][] (with Justine Davis) _Political Behavior_
+(2026). [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts][] (with Justine Davis) _Political Behavior_ 48, pp. 997-1022.
 
 [Understanding the Sensitivity of Party Identification Questions in Polarized African Contexts]: https://rdcu.be/erWgb
 
