@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <style>
-.page__content h2 ~ p,
-.page__content h2 ~ ul,
-.page__content h2 ~ ol {
+.archive h2 ~ p,
+.archive h2 ~ ul,
+.archive h2 ~ ol {
   margin-left: 2em;
 }
 </style>
@@ -20,14 +20,13 @@ Martha Wilfahrt. 2021. [Precolonial Legacies in Postcolonial Politics: Represent
 
 [Precolonial Legacies in Postcolonial Politics: Representation and Redistribution in Decentralized West Africa]: https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Allan Sharlin Memorial Book Award, Social Science History Association, 2022_
+-  _Allan Sharlin Memorial Book Award, Social Science History Association, 2022_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _QMMR Sartori Best Book Award, Honorable Mention, 2022_
+-  _QMMR Sartori Best Book Award, Honorable Mention, 2022_
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Long-Listed for the Luebbert Best Book Award, 2022_
+-  _Long-Listed for the Luebbert Best Book Award, 2022_
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reviewed in [African Studies Review](https://muse-jhu-edu.libproxy.berkeley.edu/article/949519), [Governance](https://doi.org/10.1111/gove.12731), [The Journal of Development Studies](https://doi.org/10.1080/00220388.2023.2229140), [Perspectives on Politics](https://doi.org/10.1017/S1537592722001475), 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publius: The Journal of Federalism](https://doi.org/10.1093/publius/pjad042)
+-  Reviewed in [African Studies Review](https://muse-jhu-edu.libproxy.berkeley.edu/article/949519), [Governance](https://doi.org/10.1111/gove.12731), [The Journal of Development Studies](https://doi.org/10.1080/00220388.2023.2229140), [Perspectives on Politics](https://doi.org/10.1017/S1537592722001475), [Publius: The Journal of Federalism](https://doi.org/10.1093/publius/pjad042)
 
 Journal Articles 
 -------
@@ -54,7 +53,7 @@ Natalie Letsa and Martha Wilfahrt. 2023. [Judge, Landlord, Broker, Watchman: Ass
 
 Justine Davis and Martha Wilfahrt. 2023. [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa][] _Comparative Political Studies_ 57(4), pp. 675-709. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Winner of the African Politics Conference Group Best Paper Award 2024_
+-  _Winner of the African Politics Conference Group Best Paper Award 2024_
 
 [Enumerator Experiences in Survey Data Collection in Sub-Saharan Africa]: https://journals.sagepub.com/doi/10.1177/00104140231178735
 
@@ -64,13 +63,13 @@ Kathleen Klaus, Jeffrey Paller and Martha Wilfahrt. 2023. [Demanding Recognition
 
 Martha Wilfahrt. 2022. [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?][] _Electoral Studies_ 79.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data](https://martha-wilfahrt.github.io/files/wilfahrt_electoral_studies_2022_replication_data.zip) 
+-  [Replication Data](https://martha-wilfahrt.github.io/files/wilfahrt_electoral_studies_2022_replication_data.zip) 
 
 [Citizen response to local service provision: Emerging democratic accountability in decentralized West Africa?]: https://authors.elsevier.com/a/1fXDnxRaZcPN3
 
 Kristin Michelitch and Martha Wilfahrt. 2022. [Improving Open-Source Information on African Politics][]  _PS: Politics and Society_ 55(2), pp. 450-455.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][]
+-  [Replication Data][]
 
 [Replication Data]: [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IJUVUG]
 
@@ -78,7 +77,7 @@ Kristin Michelitch and Martha Wilfahrt. 2022. [Improving Open-Source Information
 
 Natalie Letsa and Martha Wilfahrt. 2020. [The Mechanisms of Direct and Indirect Rule: Colonialism and Economic Development in Africa][]  _Quarterly Journal of Political Science_ 15(4), pp. 539-577.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Replication Data][]
+-  [Replication Data][]
 
 [Replication Data]: https://www.nowpublishers.com/article/details/supplementary-info/100.00019086_supp.zip
 
@@ -88,9 +87,9 @@ Martha Wilfahrt. 2018. [Precolonial Legacies and Institutional Congruence in Pub
 
 [Precolonial Legacies and Institutional Congruence in Public Goods Delivery: Evidence from Decentralized West Africa.]: https://www.cambridge.org/core/journals/world-politics/article/precolonial-legacies-and-institutional-congruence-in-public-goods-delivery/5BA3EFBDEB0981B965801B9C1DA31D64
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [​Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY)
+-  [​Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/O9PUSY)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ​[Coding of Senegal's Precolonial Kingdoms](https://martha-wilfahrt.github.io/files/Senegals_Precolonial_Kingdom.pdf)
+-  ​[Coding of Senegal's Precolonial Kingdoms](https://martha-wilfahrt.github.io/files/Senegals_Precolonial_Kingdom.pdf)
 
 Martha Wilfahrt. 2018. [The Politics of Local Government Performance: Elite Cohesion and Cross-Village Constraints in Decentralized Senegal][]. _World Development_, 103, pp. 149-61.
 
