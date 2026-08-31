@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.page__content h2 ~ p,
+.page__content h2 ~ ul,
+.page__content h2 ~ ol {
+  margin-left: 2em;
+}
+</style>
+
 Book 
 -------
 
